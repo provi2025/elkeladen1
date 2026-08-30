@@ -1,0 +1,4 @@
+# Vorschau-Fassung: noch nichts indexieren lassen.
+# Vor dem echten Livegang diese Datei löschen oder "Disallow:" leer lassen.
+User-agent: *
+Disallow: /
